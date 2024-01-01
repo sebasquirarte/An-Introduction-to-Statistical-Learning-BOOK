@@ -6,7 +6,7 @@ The aim of this repository is to group all the exercises and some important exam
 
 Full book is available for free at: https://www.statlearning.com/
 
-## Table 1. List of data sets needed to perform the labs and exercises in this textbook. 
+## Table of data sets needed to perform the labs and exercises in this textbook. 
 *All data sets are available in the ISLR2 library, with the exception of USArrests, which is part of the base R distribution*
 
 | Name        | Description                                                       |
